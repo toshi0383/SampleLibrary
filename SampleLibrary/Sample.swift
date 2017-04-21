@@ -14,6 +14,8 @@ public class Sample {
     public func run() {
         let a = "a"
         let b = "b"
-        self.c = "\(a), \(b)"
+        let c = "c"
+        let d = "d"
+        self.c = "\(a), \(b), \(c), \(d)"
     }
 }
